@@ -1,4 +1,4 @@
-<div align="center">
+<div>
     <h1>SWS I.T Solution</h1>
     <p>Strive for Excellence</p>
     <div>
